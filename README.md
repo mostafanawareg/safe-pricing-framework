@@ -5,7 +5,7 @@
 **A launch-pricing method for new products: price 10% below the market leader, anchor against the quality leader, and know your break-even before day one.**
 
 Methodology by **[Dr. Mostafa Nawareg](https://mostafanawareg.com/about-dr-mostafa-nawareg/)** — International Marketing Consultant, Corporate Trainer & Author.
-Live calculator (free, Arabic): **[Safe Pricing — التسعير الآمن](https://marketingplannerai.mostafanawareg.com/marketing-template.html#tool-pricing-safe)** · Background: [Free marketing AI tools](https://mostafanawareg.com/free-marketing-ai-tools/)
+Live calculator (free, Arabic): **[Safe Pricing — التسعير الآمن](https://marketingplannerai.mostafanawareg.com/marketing-template.html#tool-pricing-safe)** · Methodology article (Arabic): [استراتيجية التسعير الآمن للمنتجات الجديدة](https://mostafanawareg.com/maqalat-tswiqia/%D8%A7%D9%84%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1-%D8%A7%D9%84%D8%A2%D9%85%D9%86-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/) · [Free marketing AI tools](https://mostafanawareg.com/free-marketing-ai-tools/)
 
 This repository is the reference implementation of the calculator's logic in plain Python, verified to produce identical results to the published tool.
 
@@ -108,6 +108,8 @@ The implementation was additionally checked against the original JavaScript of t
 - **المنطقة الآمنة:** بين السعر الآمن وسعر قائد السوق.
 
 جرّب الأداة مجاناً: [التسعير الآمن — Marketing Planner Suite](https://marketingplannerai.mostafanawareg.com/marketing-template.html#tool-pricing-safe)
+
+المقال المنهجي: [استراتيجية التسعير الآمن للمنتجات الجديدة](https://mostafanawareg.com/maqalat-tswiqia/%D8%A7%D9%84%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1-%D8%A7%D9%84%D8%A2%D9%85%D9%86-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/)
 
 ---
 
