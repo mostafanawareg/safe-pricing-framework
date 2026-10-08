@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Safe Pricing Framework (PPP)"
+abstract: "Reference implementation of the PPP (Premium, Promotion, Penetration) safe-pricing method for launching new products: an even premium anchor from the quality leader, an odd promotional price 10% below the market leader, a safe price zone, and break-even analysis."
+type: software
+authors:
+  - family-names: "Nawareg"
+    given-names: "Mostafa"
+    orcid: "https://orcid.org/0009-0007-8742-9270"
+    website: "https://mostafanawareg.com"
+repository-code: "https://github.com/mostafanawareg/safe-pricing-framework"
+url: "https://marketingplannerai.mostafanawareg.com/marketing-template.html#tool-pricing-safe"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-08"
+keywords:
+  - pricing strategy
+  - safe pricing
+  - penetration pricing
+  - price anchoring
+  - odd pricing
+  - break-even analysis
+  - marketing
