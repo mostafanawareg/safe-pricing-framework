@@ -1,5 +1,7 @@
 # Safe Pricing Framework (PPP)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23231855.svg)](https://doi.org/10.5281/zenodo.23231855)
+
 **A launch-pricing method for new products: price 10% below the market leader, anchor against the quality leader, and know your break-even before day one.**
 
 Methodology by **[Dr. Mostafa Nawareg](https://mostafanawareg.com/about-dr-mostafa-nawareg/)** — International Marketing Consultant, Corporate Trainer & Author.
@@ -113,7 +115,7 @@ The implementation was additionally checked against the original JavaScript of t
 
 If you use this framework in research, teaching, or a product, please cite it — GitHub's **"Cite this repository"** button uses [`CITATION.cff`](CITATION.cff).
 
-> Nawareg, M. (2026). *Safe Pricing Framework (PPP)* [Computer software]. https://mostafanawareg.com
+> Nawareg, M. (2026). *Safe Pricing Framework (PPP)* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23231855
 
 ## Author
 

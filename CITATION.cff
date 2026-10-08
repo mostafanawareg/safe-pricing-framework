@@ -3,6 +3,7 @@ message: "If you use this framework, please cite it as below."
 title: "Safe Pricing Framework (PPP)"
 abstract: "Reference implementation of the PPP (Premium, Promotion, Penetration) safe-pricing method for launching new products: an even premium anchor from the quality leader, an odd promotional price 10% below the market leader, a safe price zone, and break-even analysis."
 type: software
+doi: "10.5281/zenodo.23231855"
 authors:
   - family-names: "Nawareg"
     given-names: "Mostafa"
